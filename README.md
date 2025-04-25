@@ -19,8 +19,8 @@ Loyola University, MD
 ### Projects
 
 #### Job Application Tracker 
- - image
-   
+![Project1](/project_images/project 1 image.png)   
+
 Initial project idea: 
 This was a project for one of our modules where the aim was to learn how to organize different information in useful ways. I wanted to create a job application tracker that was efficient, useful, and creative. The problem that I set out to solve was the lack of organization and often forgotten information when applying to jobs. I am the type of person who applies to jobs and forgets when I applied, what the position entailed, contact info, and more crucial information. My aim was to keep track of the various jobs I may apply to in the future, in order to keep all the important information stored and saved in an organized place. 
 
