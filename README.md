@@ -44,7 +44,6 @@ This project was great practice on knowing how to organize information, label ce
 
 ***
 #### Personality Test Application
- - image
    
 Initial project idea: 
 This project was for the final Python Assessment Module. I love sweets and I love baking so I combined my love for desserts with a personality test. I set out to create this personality so people could find out what flavor of cake they are based on fun personality questions. I thought it was a fun way for people to see if their personality aligned with their favorite cake flavor. 
@@ -70,7 +69,6 @@ In summary this project was a lot of fun and I had a great time writing the code
 
 ***
 #### Creating Queries
- - image
    
 Initial project idea: 
 This project was one of our final ones for this semester and although I initially thought it was going to be very difficult, it ended up being pretty straightforward and I got to learn a lot. I set out to create queries for different items that customers bought at a candy store. These queries allowed me to organize data/information in different ways such as the price in ascending order, purchases made from certain customers and more. 
