@@ -19,7 +19,6 @@ Loyola University, MD
 ### Projects
 
 #### Job Application Tracker 
-![Project1](/project_images/project1image.png)   
 
 Initial project idea: 
 This was a project for one of our modules where the aim was to learn how to organize different information in useful ways. I wanted to create a job application tracker that was efficient, useful, and creative. The problem that I set out to solve was the lack of organization and often forgotten information when applying to jobs. I am the type of person who applies to jobs and forgets when I applied, what the position entailed, contact info, and more crucial information. My aim was to keep track of the various jobs I may apply to in the future, in order to keep all the important information stored and saved in an organized place. 
@@ -38,6 +37,8 @@ I set out to achieve an organized job application tracker that was easy to use a
 
 Summary:
 This project was great practice on knowing how to organize information, label cells, create different sections, etc. It was also a project that I can genuinely see myself using for future jobs I apply to as I tend to forget important information quickly. 
+
+![Project1](/project_images/project1image.png)   
 
 
 ***
@@ -63,6 +64,9 @@ Summary:
 In summary this project was a lot of fun and I had a great time writing the code for it, despite the tedious programming and creative thinking that was involved. I would definitely do this quiz if I stumbled upon it and was looking to kill time. I definitely was able to practice all the Python structures, loops, etc. that we learned throughout this module, which I learned a lot from. 
 
 
+![Project2](/project_images/project2image.png)   
+![Project2](/project_images/project2imagetwo.png)   
+
 ***
 #### Creating Queries
  - image
@@ -84,4 +88,7 @@ I set out to achieve a project that allowed me to separate a lot of data into sm
 
 Summary:
 Using Microsoft Access, I developed queries to filter and sort purchases made at a candy store. The process was straightforward and helped me build practical skills in organizing information for business and academic purposes.
+
+![Project3](/project_images/project3image.png)   
+![Project3](/project_images/project3imagetwo.png)   
 
