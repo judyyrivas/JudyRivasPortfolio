@@ -44,7 +44,7 @@ This project was great practice on knowing how to organize information, label ce
 
 ***
 #### Personality Test Application
-   
+
 Initial project idea: 
 This project was for the final Python Assessment Module. I love sweets and I love baking so I combined my love for desserts with a personality test. I set out to create this personality so people could find out what flavor of cake they are based on fun personality questions. I thought it was a fun way for people to see if their personality aligned with their favorite cake flavor. 
 
